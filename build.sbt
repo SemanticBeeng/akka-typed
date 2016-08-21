@@ -10,7 +10,7 @@ name := """akka-remote-typed"""
 version := "1.0-SNAPSHOT"
 
 
-scalaVersion := "2.11.4"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
 )
